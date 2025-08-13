@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>git실습하기</title>
+<title>hello</title>
 </head>
 <body>
 <h1>hello</h1>
